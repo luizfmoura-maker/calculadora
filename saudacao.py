@@ -1,4 +1,4 @@
-def saudacao(nome):
- return f'Boa tarde, {nome}'
+def saldacao(nome):
+return f'Tenha um otimo final de semana, {nome}'
 
-print(saudacao('Luiz'))
+print(saldacao('nando'))
