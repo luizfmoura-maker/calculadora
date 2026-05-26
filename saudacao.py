@@ -1,8 +1,9 @@
 def saldacao(nome):
-<<<<<<< HEAD
-return f'Bom dia, {nome}'
-=======
+
 return f'Tenha um otimo final de semana, {nome}'
->>>>>>> saudacao
+
+def soma(n1,n2):
+ resulado =n1 + n2
+ return(resultado)
 
 print(saldacao('nando'))
